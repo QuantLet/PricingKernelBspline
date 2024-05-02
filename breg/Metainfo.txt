@@ -4,7 +4,7 @@ Published in : 'PricingKernel'
 
 Description : 'bspline and its kernel'
 
-Keywords : 'biplane , kernel'
+Keywords : 'bspline , kernel'
 
 Author : 'WK Haerdle Zuo Xiaorui'
 
