@@ -1,0 +1,11 @@
+Name of QuantLet : 'breg'
+
+Published in : 'PricingKernel' 
+
+Description : 'bspline and its kernel'
+
+Keywords : 'biplane , kernel'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Fri, May 03 2024
